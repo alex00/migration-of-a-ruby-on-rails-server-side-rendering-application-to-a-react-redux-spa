@@ -1,1 +1,1 @@
-# migration-of-a-ruby-on-rails-server-side-rendering-application-to-a-react-redux-spa
+# How do we gradually migrated a Ruby on Rails server-side rendering application to a React & Redux SPA
